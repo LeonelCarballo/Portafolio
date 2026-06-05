@@ -36,4 +36,21 @@ h1,h2,h3{
     font-weight: 500;
 }
 
+.tabla-bonita{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.tabla-bonita th, tabla-bonita td{
+    border: 1px solid #cccccc;
+    padding: 12px;
+    text-align: left;
+}
+
+.tabla-bonita th{
+    background-color: #0056b3;
+
+}
+
 
